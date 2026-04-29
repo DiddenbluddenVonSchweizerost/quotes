@@ -1,0 +1,42 @@
+[
+  {
+    "person": "Albert Einstein",
+    "citat": "Fantasi är viktigare än kunskap."
+  },
+  {
+    "person": "Nelson Mandela",
+    "citat": "Det verkar alltid omöjligt tills det är gjort."
+  },
+  {
+    "person": "Oscar Wilde",
+    "citat": "Var dig själv, alla andra är redan upptagna."
+  },
+  {
+    "person": "Marie Curie",
+    "citat": "Ingenting i livet är att frukta, det är bara att förstå."
+  },
+  {
+    "person": "Mark Twain",
+    "citat": "Hemligheten bakom att komma framåt är att börja."
+  },
+  {
+    "person": "Steve Jobs",
+    "citat": "Din tid är begränsad, slösa den inte på att leva någon annans liv."
+  },
+  {
+    "person": "Maya Angelou",
+    "citat": "Gör så gott du kan tills du vet bättre. När du vet bättre, gör bättre."
+  },
+  {
+    "person": "Confucius",
+    "citat": "Det spelar ingen roll hur långsamt du går så länge du inte stannar."
+  },
+  {
+    "person": "Leonardo da Vinci",
+    "citat": "Enkelhet är den yttersta sofistikationen."
+  },
+  {
+    "person": "Friedrich Nietzsche",
+    "citat": "Den som har ett varför att leva kan uthärda nästan vilket hur som helst."
+  }
+]
